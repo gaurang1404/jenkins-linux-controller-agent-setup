@@ -111,4 +111,3 @@ The next step is to configure an NGINX reverse proxy before completing the Jenki
 
 ## Next Steps
 ➡️ **[Setup NGINX Reverse Proxy](./04-setup-nginx-reverse-proxy.md)**
-```
