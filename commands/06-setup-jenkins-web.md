@@ -216,7 +216,4 @@ Your distributed Jenkins environment is now ready to run CI/CD pipelines securel
 
 ## Next Steps
 
-- Create your first Jenkins pipeline.
-- Connect a Git repository.
-- Configure automatic builds using webhooks.
-- Add additional worker nodes to scale build capacity.
+➡️ **[Run a Demo Pipeline](./07-run-demo-pipeline.md)**
