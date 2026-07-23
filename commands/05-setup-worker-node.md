@@ -64,7 +64,7 @@ Return to the Jenkins controller.
 Generate a public/private SSH key pair using the **Ed25519** algorithm.
 
 ```bash
-ssh-keygen -t ed25519
+sudo -u jenkins ssh-keygen -t ed25519
 ```
 
 This creates a private key that remains on the controller and a public key that will be shared with the worker node.
